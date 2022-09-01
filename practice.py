@@ -1,1 +1,1 @@
-ff
+print(input(int("enter ")))
